@@ -1,0 +1,4 @@
+SQLAlchemy 
+streamlit 
+pandas  
+streamlit-option-menu
